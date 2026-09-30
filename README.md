@@ -34,6 +34,19 @@ Set up a Windows 10 virtual machine to serve as the endpoint for a Security Oper
 - Benefits of isolated testing environments
 - Basic Windows deployment and configuration
  
+Screenshots
+ 
+### VirtualBox Manager
+ 
+virtualbox.png
+ 
+### Windows 10 Desktop
+ 
+Windows10VM.png
+ 
+### System Information
+ 
+System Information.png
 ## Next Steps
 - Install Sysmon
 - Configure Sysmon logging
